@@ -1,4 +1,4 @@
-name: RaspberryPi3 OpenWrt
+name: OrangePiZero OpenWrt
 
 on:
   workflow_dispatch:
